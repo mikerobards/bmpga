@@ -60,12 +60,25 @@ body {
 
 #bmp-title {
   font-family: 'Open Sans', sans-serif;
-  font-size: 70px;
+  font-size: 6vw;
   text-shadow: 3px 3px #000000;
 }
 
 #sharp {
-  margin: 70px;
+  margin: 100px;
+}
+
+.email p:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+.card .description .phone {
+  font-size: 22px;
+}
+
+.section-our-clients-freebie {
+  height: 175px;
 }
 
 h1,
@@ -1919,6 +1932,7 @@ a,
 .card a {
   opacity: .85;
 }
+
 .card:hover .header {
   opacity: 1;
 }

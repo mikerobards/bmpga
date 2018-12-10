@@ -64,6 +64,10 @@ body {
   text-shadow: 3px 3px #000000;
 }
 
+#sharp {
+  margin: 70px;
+}
+
 h1,
 .h1,
 h2,

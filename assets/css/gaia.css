@@ -63,10 +63,19 @@ body {
   margin: 40px;
 }
 
+#logo-white {
+  height: 70%;
+  width: 70%;
+}
+
 #bmp-title {
   font-family: 'Open Sans', sans-serif;
   font-size: 5vw;
   text-shadow: 3px 3px #000000;
+}
+
+#prod {
+  margin-top: 100px;
 }
 
 #sharp {
